@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou André Noleto 👋
 
-<!--
-**AndreLNZ29/AndreLNZ29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica de Brasília (UCB).
 
-Here are some ideas to get you started:
+💻 Atualmente estou aprendendo e desenvolvendo projetos com:
+- HTML, CSS e JavaScript
+- Java
+- Linguagem C
+- Banco de Dados
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tenho interesse principalmente em:
+- Desenvolvimento Back-end
+- Engenharia de Software
+- Banco de Dados
+- Qualidade e Testes de Software
+
+📚 Alguns projetos acadêmicos:
+- Sistema de Cadastro de Concurso
+- Site Dia do Karatê
+- Projetos de Estrutura de Dados em C
+- Aplicações Web utilizando HTML, CSS e JavaScript
+
+📫 Contato
+
+- LinkedIn: www.linkedin.com/in/andré-luiz-a035bb272
+- Email: andremnoleto@gmail.com
+
+---
+⭐ Sempre buscando aprender algo novo e evoluir como desenvolvedor.
